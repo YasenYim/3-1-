@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\3-1 列表\bin\Debug\netcoreapp3.1\3-1 列表.exe
+E:\Unity\NikoLua\Hello\3-1 列表\bin\Debug\netcoreapp3.1\3-1 列表.deps.json
+E:\Unity\NikoLua\Hello\3-1 列表\bin\Debug\netcoreapp3.1\3-1 列表.runtimeconfig.json
+E:\Unity\NikoLua\Hello\3-1 列表\bin\Debug\netcoreapp3.1\3-1 列表.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\3-1 列表\bin\Debug\netcoreapp3.1\3-1 列表.dll
+E:\Unity\NikoLua\Hello\3-1 列表\bin\Debug\netcoreapp3.1\3-1 列表.pdb
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.dll
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.pdb
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.genruntimeconfig.cache
+E:\Unity\NikoLua\Hello\3-1 列表\obj\Debug\netcoreapp3.1\3-1 列表.csproj.AssemblyReference.cache
